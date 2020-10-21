@@ -38,7 +38,6 @@ dependencies:
   - python_abi=3.9=1_cp39
   - pytz=2020.1=pyh9f0ad1d_0
   - readline=8.0=he28a2e2_2
-  - scikit-learn=0.23.2=py38hee58b96_0
   - scipy=1.5.2=py39hf6ce272_2
   - setuptools=49.6.0=py39h079e4ff_2
   - six=1.15.0=pyh9f0ad1d_0
